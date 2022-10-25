@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey! I'm Aslan named Li Mingxuan, nice to meet you... 🍀
+# Hey! I'm Aslan·Li Mingxuan, nice to meet you... 🍀
 🧁 English | [简体中文](README-CN.md) | 🥰 Hello! Aslan·Xuan ···
 <br>
 <br>
