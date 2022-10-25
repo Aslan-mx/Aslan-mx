@@ -59,12 +59,18 @@
 
 ## Here are some ideas to help you get started 🦄
 
-🔭 I'm currently looking for a job ...<br>
-🌱 I am currently studying ...<br>
-👯 I hope ...<br>
-🤔 I'm looking for help ...<br>
-💬 Ask me about ...<br>
-📫 How to contact me ...<br>
+🔭 I'm currently looking for a job ...
+  <br>
+🌱 I am currently studying ...
+  <br>
+👯 I hope ...
+  <br>
+🤔 I'm looking for help ...
+  <br>
+💬 Ask me about ...
+  <br>
+📫 How to contact me ...
+  <br>
 😄 Pronoun ...
 
 ## Hard drive eats ash small project 🌵
