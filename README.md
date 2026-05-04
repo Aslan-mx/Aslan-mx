@@ -43,7 +43,7 @@
 
 ## Introduce yourself 🍉
 
-🍀 I'm from the Northwest [@Xiaouan Xuan](https://github.com/Aslan-mx) Follow me... 🥰
+🍀 I'm from the Northwest [@XiaoXuan Xuan](https://github.com/Aslan-mx) Follow me... 🥰
 
 🐞 Determined to be an excellent full stack development engineer.
 
